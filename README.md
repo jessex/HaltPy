@@ -1,7 +1,5 @@
 # HaltPy
 
-## Description
-
 HaltPy is a simple, RESTful service to determine if any arbitrary program will
 eventually terminate. Feed it the file name of any program's bootstrap source
 and HaltPy responds with the answer to whether or not the program terminates. 
