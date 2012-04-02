@@ -10,13 +10,12 @@ So easy, a Computer Scientist can do it.
 
 1. It's DRY. Not a single line of code in HaltPy is a duplicate. Guaranteed.
 
-2. The answer as to whether an arbitrary program terminates is an extremely 
-valuable one. The continued existence of Sarah Connor will be crucial in the
-coming war against Skynet. Be prepared, with HaltPy.
+2. It's a polyglot: accepts programs of any language, from Brainfuck++ to Ebonics.
 
-3. It's a polyglot: works for programs of any language, from Brainfuck++ to Ebonics.
+3. Almost inexplicably, no one else has implemented this yet. Cutting edge.
+_Bleeding_ edge.
 
-4. Almost inexplicably, no one else has implemented this yet. Cutting edge.
+4. Everybody's doing it.
 
 ## Usage
 
