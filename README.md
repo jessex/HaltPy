@@ -1,4 +1,4 @@
-# HaltPy: A tool to determine if an arbitrary program is terminable
+# HaltPy
 
 ## Description
 
