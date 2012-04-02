@@ -16,7 +16,9 @@ So easy, a Computer Scientist can do it.
 valuable one. The continued existence of Sarah Connor will be crucial in the
 coming war against Skynet. Be prepared, with HaltPy.
 
-3. Almost inexplicably, no one else has implemented this yet. Cutting edge.
+3. It's a polyglot: works for programs of any language, from Brainfuck++ to Ebonics.
+
+4. Almost inexplicably, no one else has implemented this yet. Cutting edge.
 
 ## Usage
 
